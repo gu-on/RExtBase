@@ -2,5 +2,5 @@
 
 int main()
 {
-    std::cout << "Hello, rextbase\n";
+	std::cout << "Hello, rextbase\n";
 }
